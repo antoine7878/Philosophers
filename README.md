@@ -1,6 +1,6 @@
-# philosophers
+# Philosophers
 
-**philosophers** 42's project is a multithreaded simulation of the Dining Philosophers problem.
+**Philosophers** 42's project is a multithreaded simulation of the Dining Philosophers problem.
 
 ## ⚙️ Features
 
