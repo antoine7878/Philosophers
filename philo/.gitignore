@@ -1,0 +1,7 @@
+*.out
+.nfs*
+m.c
+obj/
+philo
+compile_commands.json
+test.sh
